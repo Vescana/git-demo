@@ -2,10 +2,6 @@
 
 This is the first line of the file.
 
-##Ipsum below
+##Website
 
-Modified file.
-
-###Ipsum again
-
-ZZZZZZZZZZZZZ
+index.html
